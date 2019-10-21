@@ -1,0 +1,14 @@
+vagrant reload --provision
+
+vagrant init
+
+vagrant up --provision
+
+vagrant up
+
+vagrant status
+
+vagrant halt
+
+vagrant ssh
+
